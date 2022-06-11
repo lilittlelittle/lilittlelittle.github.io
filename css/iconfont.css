@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3457176 */
-  src: url('iconfont.woff2?t=1654923317779') format('woff2'),
-       url('iconfont.woff?t=1654923317779') format('woff'),
-       url('iconfont.ttf?t=1654923317779') format('truetype');
+  src: url('iconfont.woff2?t=1654926437871') format('woff2'),
+       url('iconfont.woff?t=1654926437871') format('woff'),
+       url('iconfont.ttf?t=1654926437871') format('truetype');
 }
 
 .iconfont {
@@ -13,6 +13,22 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-riji1:before {
+  content: "\e766";
+}
+
+.icon-riji2:before {
+  content: "\fb15";
+}
+
+.icon-rijiben:before {
+  content: "\e763";
+}
+
+.icon-riji:before {
+  content: "\edd0";
+}
+
 .icon-keaide:before {
   content: "\e600";
 }
@@ -21,6 +37,3 @@
   content: "\e614";
 }
 
-.icon-riji:before {
-  content: "\edd0";
-}
